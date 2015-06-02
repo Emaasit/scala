@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;funprog/src/com/sparkiqlabs/week1/start.sc&apos; to &apos;Start.sc&apos;" description="Rename resource &apos;start.sc&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/sparkiqlabs/week1/start.sc" name="Start.sc" stamp="1433204288227" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;funprog/src/com/sparkiqlabs/week1/start.scala&apos; to &apos;Start.scala&apos;" description="Rename resource &apos;start.scala&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/sparkiqlabs/week1/start.scala" name="Start.scala" stamp="1433204390202" updateReferences="true"/>
+</session>

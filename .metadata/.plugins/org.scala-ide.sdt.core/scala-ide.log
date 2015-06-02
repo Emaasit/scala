@@ -1,0 +1,94 @@
+2015-06-01 17:13:54,564  WARN [ModalContext] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:13:54,566  WARN [ModalContext] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:13:58,786  WARN [Worker-3] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:13:58,787  WARN [Worker-3] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:14:27,033  WARN [Worker-3] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:14:27,033  WARN [Worker-3] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:14:27,062  WARN [Worker-3] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:14:27,062  WARN [Worker-3] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:14:58,577  WARN [Worker-5] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:14:58,577  WARN [Worker-5] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:14:58,607  WARN [Worker-5] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:14:58,607  WARN [Worker-5] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:14:59,445  WARN [Worker-5] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:14:59,445  WARN [Worker-5] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:15:23,330  WARN [main] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:15:23,331  WARN [main] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:15:31,883  WARN [Worker-0] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:15:31,884  WARN [Worker-0] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:15:31,915  WARN [Worker-0] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:15:31,915  WARN [Worker-0] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:15:32,759  WARN [Java indexing] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:15:32,760  WARN [Java indexing] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:15:34,629  WARN [Worker-0] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:15:34,629  WARN [Worker-0] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:15:35,661  WARN [Worker-5] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:15:35,662  WARN [Worker-5] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:15:35,702  WARN [Worker-5] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:15:35,703  WARN [Worker-5] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:15:36,912  WARN [Worker-5] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:15:36,913  WARN [Worker-5] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:16:25,616  WARN [Worker-1] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:16:25,617  WARN [Worker-1] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:16:25,642  WARN [Worker-1] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:16:25,642  WARN [Worker-1] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:16:25,670  WARN [Worker-1] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:16:25,670  WARN [Worker-1] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:16:27,120 ERROR [Worker-4] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Error: Main method not found in class com.sparkiqlabs.week1.start, please define the main method as:
+   public static void main(String[] args)
+
+
+2015-06-01 17:16:27,808  WARN [Worker-0] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:16:27,808  WARN [Worker-0] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:16:27,849  WARN [Worker-0] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:16:27,849  WARN [Worker-0] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:16:27,870  WARN [Worker-0] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:16:27,870  WARN [Worker-0] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:18:08,616  WARN [Worker-8] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:18:08,617  WARN [Worker-8] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:18:08,636  WARN [Worker-8] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:18:08,637  WARN [Worker-8] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:18:08,656  WARN [Worker-8] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:18:08,656  WARN [Worker-8] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:18:24,378  WARN [Worker-8] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:18:24,379  WARN [Worker-8] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:18:24,398  WARN [Worker-8] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:18:24,398  WARN [Worker-8] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:18:26,609 ERROR [Worker-8] - ProgramExecutor$ - Worksheet process has terminated unexpectedly (exit value 1
+At the time of termination, the following text was available in the output streams:
+Standard output:
+  
+Standard error:
+  Exception in thread "main" java.lang.NoClassDefFoundError: com/sparkiqlabs/week1/Start (wrong name: com/sparkiqlabs/week1/start)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.defineClass(Unknown Source)
+	at java.net.URLClassLoader.access$100(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.launcher.LauncherHelper.checkAndLoadMain(Unknown Source)
+
+
+2015-06-01 17:18:26,812  WARN [Worker-14] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:18:26,812  WARN [Worker-14] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:18:26,845  WARN [Worker-14] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:18:26,845  WARN [Worker-14] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:18:26,868  WARN [Worker-14] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:18:26,868  WARN [Worker-14] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:19:50,241  WARN [main] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:19:50,241  WARN [main] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:19:50,596  WARN [Worker-17] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:19:50,597  WARN [Worker-17] - ScalaProject - Project funprog runs on platform default installation.
+2015-06-01 17:19:50,618  WARN [Worker-17] - ScalaProject - Project funprog has platform default sourceLevel.
+2015-06-01 17:19:50,618  WARN [Worker-17] - ScalaProject - Project funprog runs on platform default installation.
